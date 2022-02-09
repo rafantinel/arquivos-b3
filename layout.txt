@@ -1,0 +1,6 @@
+HEADER = [
+    "DATA", # 3-10
+    "CODNEG", # 13-24
+    "MODREF", # 53-56
+    "PREULT" # 109-121
+]
